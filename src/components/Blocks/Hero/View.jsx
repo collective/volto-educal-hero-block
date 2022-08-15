@@ -12,7 +12,7 @@ import BlueCircle from '@plone-collective/volto-educal-hero-block/../assets/hero
 
 const View = ({ data, mode }) => {
   const {
-    preheadingText,
+    preHeadingText,
     headingText,
     subHeadingText,
     showActionButton,
@@ -51,7 +51,7 @@ const View = ({ data, mode }) => {
       ) : null}
       <div className="educalHeroContainer">
         <div className="educalHeroLeft">
-          <div className="educalHeroTextHeading">{preheadingText}</div>
+          <div className="educalHeroTextHeading">{preHeadingText}</div>
           <div className="educalHeroTextHeading educalHeroHeadingAlt">
             <span className="educalHeroYellowShapeWrapper">
               {headingFirstWord}

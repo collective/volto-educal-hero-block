@@ -5,7 +5,7 @@ export default () => ({
       id: 'default',
       title: 'Default',
       fields: [
-        'preheadingText',
+        'preHeadingText',
         'headingText',
         'subHeadingText',
         'showActionButton',
@@ -21,7 +21,7 @@ export default () => ({
     },
   ],
   properties: {
-    preheadingText: {
+    preHeadingText: {
       title: 'Pre-Heading',
       type: 'string',
       defaultValue: 'Put something attractive here!',
