@@ -13,8 +13,8 @@ A [volto](https://plone.org/what-is-plone/volto) [block](https://6.dev-docs.plon
 1. `showActionButton` (_boolean_): Toggle the `CTA-Button`.
 1. `actionButtonText` (_string_): `CTA-Button` label.
 1. `actionButtonUrl` (_string_): `CTA-Button` _URL_ which is navigated onClick.
-1. `foregroundImage` (_url_): Foreground image url.
-1. `backgroundImage` (_url_): Background image url.
+1. `foregroundImage` (_image_): Foreground image url.
+1. `backgroundImage` (_image_): Background image url.
 1. `quoteText1` (_string_): The quote text for the first line.
 1. `quoteText2` (_string_): The quote text for the second line.
 1. `enableShapes` (_boolean_): Toggle the various background shapes along with the animations.

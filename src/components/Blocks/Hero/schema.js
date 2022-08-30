@@ -24,17 +24,14 @@ export default () => ({
     preHeadingText: {
       title: 'Pre-Heading',
       type: 'string',
-      defaultValue: 'Put something attractive here!',
     },
     headingText: {
       title: 'Heading',
       type: 'string',
-      defaultValue: 'Put your heading here!',
     },
     subHeadingText: {
       title: 'Sub-Heading',
       type: 'string',
-      defaultValue: 'Put your sub-heading here!',
     },
     showActionButton: {
       title: 'Enable button',
@@ -50,21 +47,19 @@ export default () => ({
     },
     foregroundImage: {
       title: 'Foreground Image',
-      widget: 'url',
+      widget: 'attachedimage',
     },
     backgroundImage: {
       title: 'Background Image',
-      widget: 'url',
+      widget: 'attachedimage',
     },
     quoteText1: {
       title: 'Quote Message Top',
       type: 'string',
-      defaultValue: 'Put your message here!',
     },
     quoteText2: {
       title: 'Quote Message Bottom',
       type: 'string',
-      defaultValue: 'Put your message here!',
     },
     enableShapes: {
       title: 'Enable Shapes',
