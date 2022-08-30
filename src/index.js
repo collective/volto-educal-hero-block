@@ -22,7 +22,6 @@ const applyConfig = (config) => {
       view: [],
     },
   };
-  // console.log(config);
   return config;
 };
 
