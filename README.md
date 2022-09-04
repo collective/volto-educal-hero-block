@@ -38,7 +38,7 @@ foregroundImage: '/hero2.jpg'
 quoteText1: 'Tomorrow is our'
 quoteText2: '“When I Grow Up” Spirit Day!'
 enableShapes: true
-marginBottom: '75px -50px 200px -50px'
+margin: '75px -50px 200px -50px'
 ```
 
 ### Output
