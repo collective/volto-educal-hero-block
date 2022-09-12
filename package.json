@@ -1,6 +1,6 @@
 {
   "name": "@plone-collective/volto-educal-hero-block",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "volto-educal-hero-block: Volto add-on",
   "main": "src/index.js",
   "license": "MIT",
